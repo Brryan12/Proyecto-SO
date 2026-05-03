@@ -5,10 +5,10 @@ Simulación de un sistema de muelles de carga donde múltiples camiones (threads
 [PDF con las instrucciones del proyecto](./Primer%20proyecto.pdf)
 
 ## Integrantes
-- BRYAN AGUERO MATA 402690986
-- CRISTOFER JARQUIN GUTIERREZ 119480780
-- EGNIO WAGNER SILVA 118840531
-- EMILIANO MEDINA CONTRERAS 119490422
+- BRYAN AGUERO MATA - 402690986
+- CRISTOFER JARQUIN GUTIERREZ - 119480780
+- EGNIO WAGNER SILVA - 118840531
+- EMILIANO MEDINA CONTRERAS - 119490422
 
 ## Descripción del Proyecto
 
