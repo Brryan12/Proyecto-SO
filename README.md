@@ -4,6 +4,12 @@ Simulación de un sistema de muelles de carga donde múltiples camiones (threads
 
 [PDF con las instrucciones del proyecto](./Primer%20proyecto.pdf)
 
+## Integrantes
+- BRYAN AGUERO MATA 402690986
+- CRISTOFER JARQUIN GUTIERREZ 119480780
+- EGNIO WAGNER SILVA 118840531
+- EMILIANO MEDINA CONTRERAS 119490422
+
 ## Descripción del Proyecto
 
 Este proyecto implementa un sistema de planificación de procesos tipo **FIFO (First In, First Out)** con sincronización de threads. Simula un puerto o centro de distribución con un número limitado de muelles de carga. Los camiones llegan de forma concurrente y deben:
